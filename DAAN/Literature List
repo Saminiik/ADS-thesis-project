@@ -1,1 +1,92 @@
+### **Athey, S., Keleher, N., & Spiess, J. (2025)**
+- Compares causal targeting with predictive targeting using a machine learning approach in a financial aid renewal field experiment.
+- Finds that causal targeting can more effectively identify students whose behavior is likely to change as a result of an intervention.
+- Emphasizes the practical value of combining machine learning with experimental design to improve policy efficiency.
 
+---
+
+### **Athey, S., Simon, L. K., Skans, O. N., Vikström, J., & Yakymovych, Y. (2023)**
+- Explores the heterogeneous effects of job loss on earnings across individual workers, firms, and labor markets.
+- Uses a large dataset from Sweden and a machine learning model to estimate these heterogeneous impacts.
+- Shows that worker-level characteristics alone are insufficient to capture full heterogeneity—firm and market-level factors are also crucial.
+
+---
+
+### **Athey, S., Tibshirani, J., & Wager, S. (2019)**
+- Introduces the Generalized Random Forest (GRF) algorithm, which estimates heterogeneous treatment effects.
+- GRF extends the classical random forest framework to support causal inference.
+- Demonstrates performance on simulations and empirical data, highlighting GRF's flexibility and interpretability.
+
+---
+
+### **Barrett, C. B., et al. (2019)**
+- Evaluates behavioral insurance interventions in Ethiopia using randomized control trials.
+- Finds that such interventions can improve welfare without inducing harmful behavioral distortions.
+- Highlights the importance of rigorous impact evaluation before scaling insurance programs.
+
+---
+
+### **Chantarat, S., Mude, A. G., Barrett, C. B., & Carter, M. R. (2008)**
+- Describes the Marsabit pilot project for Index-Based Livestock Insurance (IBLI) in Kenya’s arid and semi-arid regions.
+- Discusses the rationale, structure, and early implementation lessons of IBLI.
+- Provides foundational design elements for later IBLI programs and evaluations.
+
+---
+
+### **Chantarat, S., Mude, A. G., Barrett, C. B., & Turvey, C. G. (2017)**
+- Analyzes the welfare impacts of index insurance in the presence of poverty traps.
+- Finds that IBLI can help households escape low-productivity equilibria by protecting key assets.
+- Emphasizes the interaction between insurance access and long-term development dynamics.
+
+---
+
+### **Handel, B. R., et al. (2020)**
+- Investigates how social and behavioral factors affect consumer choices in the health insurance market in the Netherlands.
+- Finds significant variation in decision quality tied to socioeconomic status and information access.
+- Suggests that improving information presentation could lead to better insurance decisions.
+
+---
+
+### **Harris, A., & Yellen, M. (2024)**
+- Examines decision-making in predictive maintenance within the trucking industry.
+- Provides early evidence on how prediction models shape operational behavior.
+- Explores trade-offs between automation and human expertise in maintenance decisions.
+
+---
+
+### **Harrison, G. W., Morsink, K., & Schneider, M. (2020)**
+- Discusses potential unintended consequences of behavioral interventions in insurance.
+- Argues for caution in assuming all nudges are welfare-enhancing without thorough evaluation.
+- Recommends rigorous testing to avoid “do no harm” pitfalls in behavioral policy.
+
+---
+
+### **Hastie, T., Tibshirani, R., & Friedman, J. (2009)**
+- A foundational textbook in machine learning and statistics.
+- Covers topics like regression, classification, boosting, and support vector machines.
+- Widely cited and used as a key reference in data science and applied ML.
+
+---
+
+### **James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013)**
+- Provides an accessible introduction to statistical learning methods, using R.
+- Tailored for applied researchers and students with examples and practical guidance.
+- Covers key supervised learning techniques, model assessment, and resampling methods.
+
+---
+
+### **Jensen, N., Barrett, C. B., & Mude, A. G. (2017)**
+- Designs and evaluates the IBLI program to manage drought risk among pastoralists in Kenya.
+- Discusses contract design, pricing, and empirical performance of index insurance.
+- Finds that IBLI can reduce vulnerability and smooth consumption during droughts.
+
+---
+
+### **Jensen, N. D., et al. (2024)**
+- Synthesizes a decade of IBLI research in a comprehensive review.
+- Highlights behavioral changes such as increased investment in livestock health and strategic sales.
+- Shows evidence of IBLI increasing productivity and household income, helping break poverty traps.
+
+---
+
+Let me know if you want these grouped or annotated by theme (e.g., insurance, ML methods, behavioral econ).
