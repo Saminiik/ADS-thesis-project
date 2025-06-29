@@ -1,4 +1,4 @@
-This Readme contains instructions on how to navigate the files uploaded on Github.
+This README contains instructions on how to navigate the files uploaded in this repository.
 
 Besides the poster ("Thesis_Poster_Marion_Späth_2772981") and thesis report ("ADS_Thesis_Marion_Späth_2772981.pdf"), the Github comprises all scripts and processed summary datasets (i.e., the raw and manipulated data is not uploaded but can be obtained by running the scripts).
 
