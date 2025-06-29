@@ -14,6 +14,7 @@ To replicate and understand the analyses, work through the files in the "Scripts
 9. Quant_Reg_Cattle.ipynb -> contains code for the Quantile Regression discussed in the Discussion section of the thesis.
 
 The Processed Datasets folder contains csv files with the aggregated feature importances per model which are used in the feature_importances.ipynb scripts as well as the SUMMARY_STATISTICS_PROCESSED_APPENDIX.xlsx which contains the summary statistics reported in the appendix.
+
 The Pickled Models folder contains the models that can be imported in the respective model scripts so that the models do not have to be re-run. m1 stands for education as categorical information, m2 stands for education as a numeric measure. 
 
 
