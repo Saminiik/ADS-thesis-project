@@ -1,6 +1,6 @@
 This README contains instructions on how to navigate the files uploaded in this repository.
 
-Besides the poster ("Thesis_Poster_Marion_Späth_2772981") and thesis report ("ADS_Thesis_Marion_Späth_2772981.pdf"), the Github comprises all scripts and processed summary datasets (i.e., the raw and manipulated data is not uploaded but can be obtained by running the scripts).
+Besides the poster ("Thesis_Poster_Marion_Späth_2772981") and thesis report ("ADS_Thesis_Marion_Späth_2772981.pdf"), the Github comprises all scripts, models, and processed summary datasets (i.e., the raw and manipulated data is not uploaded but can be obtained by running the scripts).
 
 To replicate and understand the analyses, work through the files in the "Scripts" folder in the following order:
 1. Data_Manipulation.ipynb -> contains the code needed for the data manipulation and pre-processing. At the end of this file, you will get dataset in csv and xlsx format that are then used in the subsequent scripts.
